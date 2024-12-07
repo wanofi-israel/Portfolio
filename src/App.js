@@ -422,7 +422,7 @@ function App() {
         <div className="section-main">
           <img src={profile} alt="" className="profile" id="profile" />
           <div className="about">
-            <h1 className="about-header">I'm Wanofis</h1>
+            <h1 className="about-header">I'm Wanofi</h1>
             <p className="about-description">
               A passionate full stack developer. With years <br />
               of experience in web development, I love creating <br /> awesome
